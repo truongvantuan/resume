@@ -2,6 +2,17 @@
 # Display name
 title: Trương Văn Tuấn
 
+# Name pronunciation (optional)
+name_pronunciation:
+
+# Full name (for SEO)
+first_name: Tuấn
+last_name: Trương Văn
+
+# Status emoji
+status:
+  icon: ☕️
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -11,7 +22,7 @@ role: Java Web Developer
 # Organizations/Affiliations to show in About widget
 # organizations:
 # - name: Stanford University
-#   url: https://truongvantuan.github.io/
+#   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Lập trình viên Java Web, yêu thích Linux và các dự án mã nguồn mở.
@@ -39,8 +50,48 @@ education:
   #   year: 2018
 
 
+# Skills
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: python
+#         icon_pack: fab
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-line
+#         icon_pack: fas
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: database
+#         icon_pack: fas
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-hiking
+#         icon_pack: fas
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#         icon_pack: fas
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera-retro
+#         icon_pack: fas
+
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
@@ -59,19 +110,19 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/truongvantuanbk
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/tuantruongvan/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 Xin chào, mình là Tuấn. Mình đến từ Hà Tĩnh. Tốt nghiệp ngành Cơ khí Chế Tạo Máy. Hiện đang trong quá trình học tập để trở thành lập trình viên Java Web - Spring Boot Backend. Với kinh nghiệm và kiến thức về lĩnh vực cơ khí, mong muốn được tham gia làm việc tại các dự án về nhà máy và sản xuất.
 
