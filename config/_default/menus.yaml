@@ -8,13 +8,13 @@ main:
     url: '#about'
     weight: 10
   - name: Kỹ năng
-    url: '#skills'
+    url: '#section-skills'
     weight: 20
-  - name: Chứng chỉ
-    url: '#accomplishments'
-    weight: 30
   - name: Kinh nghiệm
-    url: '#experience'
+    url: '#section-experience'
+    weight: 30
+  - name: Chứng chỉ
+    url: '#section-accomplishments'
     weight: 35
   - name: Dự án
     url: '#projects'
